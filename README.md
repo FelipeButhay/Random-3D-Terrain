@@ -1,0 +1,1 @@
+El programa genera un terreno aleatorio usando Perlin Noise. Este terreno es completamente distinto cada vez que se ejecuta el programa, en "Terreno en Movimiento.exe" incluso el terreno varia mientras lo estas viendo.
